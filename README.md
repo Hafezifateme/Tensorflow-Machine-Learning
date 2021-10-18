@@ -1,5 +1,5 @@
 # Tensorflow-Machine-Learning
-In this repository you can find all of my lectures about using Tensorflow in Mashine Learning in Physics. If you are beginner, it could be useful for you.
+In this repository you can find all of my lectures about using Tensorflow in Machine Learning in Physics. If you are beginner, it could be useful for you.
 
 
 ### Contents:
