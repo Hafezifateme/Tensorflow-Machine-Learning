@@ -1,2 +1,6 @@
 # Tensorflow-Machine-Learning
-In this repository you can find all of my lectures about using tensorflow in mashine learning 
+In this repository you can find all of my lectures about using Tensorflow in Mashine Learning in Physics. If you are beginner, it could be useful for you.
+
+
+### Contents:
+- lecture1: linear regression
