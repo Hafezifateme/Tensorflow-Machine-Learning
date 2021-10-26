@@ -4,3 +4,7 @@ In this repository you can find all of my lectures about using Tensorflow in Mac
 
 ### Contents:
 - lecture1: linear regression
+- lecture2:
+    - pandas
+    - classification
+
